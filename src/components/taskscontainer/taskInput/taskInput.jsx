@@ -19,7 +19,6 @@ class TaskInput extends Component {
   }
 
   render() {
-
     return (
       <React.Fragment>
         <form onSubmit={this.handleSubmit}>
